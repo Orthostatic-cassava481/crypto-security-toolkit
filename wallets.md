@@ -39,6 +39,24 @@ A hardware wallet makes sense for:
 
 ---
 
+## Hardware Wallets
+
+### Ledger
+
+Ledger is one of the most trusted hardware wallets used by crypto traders and long-term investors.
+
+It allows you to store private keys offline, protecting your funds from exchange hacks, malware and phishing attacks.
+
+Recommended for:
+• Long-term crypto storage
+• DeFi users
+• Traders securing profits off exchanges
+
+Official website:
+https://shop.ledger.com/?r=4e0dfd7965c8
+
+---
+
 ## Good storage habits
 
 - buy devices only from official sources
