@@ -193,6 +193,8 @@ Stay safe and trade smart.
 
 This repository provides an overview of the tools.
 
+⭐ If this guide helped you — consider giving the repo a star
+
 Full step-by-step guides and comparisons are available in the articles below.
 
 - Crypto Security Guide for Traders
