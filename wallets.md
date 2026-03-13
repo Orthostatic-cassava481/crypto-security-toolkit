@@ -52,8 +52,8 @@ Recommended for:
 • DeFi users
 • Traders securing profits off exchanges
 
-Official website:
-https://shop.ledger.com/?r=4e0dfd7965c8
+[Official website:](https://shop.ledger.com/?r=4e0dfd7965c8)
+
 
 ---
 
