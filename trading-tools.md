@@ -42,7 +42,7 @@ Recommended for:
 • Strategy backtesting
 • Futures trading
 
-Start using [TradingView](https://ru.tradingview.com/pricing/?share_your_love=odessac99):
+Start using [TradingView](https://www.tradingview.com/?aff_id=164413):
 
 ---
 
