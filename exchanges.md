@@ -26,7 +26,7 @@ Important factors include:
 | Exchange | Type | Main Strength | Best For |
 |----------|------|---------------|----------|
 | [Binance](https://www.binance.com/register?ref=380132431) | CEX | Liquidity and ecosystem depth | Broad market access |
-| Bybit | CEX | Strong derivatives environment | Active traders |
+| [Bybit](https://www.bybit.com/invite?ref=91WKBZ) | CEX | Strong derivatives environment | Active traders |
 | OKX | CEX | Product range and advanced tools | Intermediate to advanced users |
 | KuCoin | CEX | Broad altcoin coverage | Users exploring smaller assets |
 
