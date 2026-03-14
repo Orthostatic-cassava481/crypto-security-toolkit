@@ -55,9 +55,8 @@ It is a practical starting point for building a stronger crypto infrastructure.
 - [Crypto Exchanges](./exchanges.md)
 - [Hardware Wallets](./wallets.md)
 - [Trading Tools](./trading-tools.md)
-- [Security Tools](./security.md)
+- [Endpoint Security](./endpoint-security.md)
 - [Extra Resources](./resources.md)
-
 ---
 
 ## Quick Overview
