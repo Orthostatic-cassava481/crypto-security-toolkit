@@ -41,6 +41,22 @@ A hardware wallet makes sense for:
 
 ## Hardware Wallets
 
+### 🔐OneKey
+
+OneKey is a modern hardware wallet designed to protect your crypto assets from online threats.
+
+It allows you to store private keys offline, protecting your funds from exchange hacks, malware and phishing attacks.
+
+Recommended for:
+
+• Long-term crypto storage  
+• DeFi users  
+• Traders securing profits off exchanges  
+
+[Official website](https://onekey.so/r/HRNVL6/shop)
+
+---
+
 ### Ledger
 
 Ledger is one of the most trusted hardware wallets used by crypto traders and long-term investors.
