@@ -58,13 +58,13 @@ It is a practical starting point for building a stronger crypto infrastructure.
 
 ## Categories
 
-- [VPN for Crypto Traders](./vpn.md)
-- [Crypto Exchanges](./exchanges.md)
-- [Hardware Wallets](./wallets.md)
-- [Trading Tools](./trading-tools.md)
-- [⚡ PROFITSKY — TradingView indicator Analyzer](./profitsky.md)
-- [Endpoint Security](./endpoint-security.md)
-- [Extra Resources](./resources.md)
+- [VPN for Crypto Traders](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/vpn.md)
+- [Crypto Exchanges](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/exchanges.md)
+- [Hardware Wallets](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/wallets.md)
+- [Trading Tools](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/trading-tools.md)
+- [⚡ PROFITSKY — TradingView indicator Analyzer](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/profitsky.md)
+- [Endpoint Security](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/endpoint-security.md)
+- [Extra Resources](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/resources.md)
 
 ---
 
